@@ -1,1 +1,3 @@
-module github.com/example/multistory\n\ngo 1.21
+module github.com/example/multistory
+
+go 1.21
